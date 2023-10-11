@@ -12,9 +12,6 @@ Sou apaixonado por tecnologia e por criar soluções elegantes e eficazes para p
 - Vuejs 🍃
 - TypeScript 🆕
 - React Native 📱
-- HTML 🌐
-- CSS 🎨
-- JavaScript 🚀
 
 ## Projetos 📂
 
