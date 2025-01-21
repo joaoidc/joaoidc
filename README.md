@@ -1,47 +1,29 @@
-# João Vitor 👨‍💻 - Web Developer
+<h1 align="center">
+  <img src="https://c.tenor.com/P5DB2iGAecsAAAAj/peach-cat.gif" width="50" height="50">
+  <br>Hi, there! I'm joaoidc! ✨
+</h1>
 
-Olá, eu sou o João Vitor e sou um desenvolvedor web com experiência em React, Vuejs, TypeScript e React Native. 
+<h1 align="center">
 
-## Sobre mim 🧑
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoidc/)
 
-Sou apaixonado por tecnologia e por criar soluções elegantes e eficazes para problemas complexos. Ao longo dos anos, tenho trabalhado em diversos projetos, desde sites institucionais até aplicações móveis, sempre buscando o melhor desempenho e qualidade.
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoidc&show_icons=true&theme=radical)
+<h4 align="center">
+  <br>
+  Technologies I Love Working With
+  <br>
+  <br>
+<div style="display: inline_block">
+    <img align="center" alt="react" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img align="center" alt="vue" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+    <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img align="center" alt="nestjs" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+</div><br/>
+</h4>
 
-## Habilidades 🚀
-
-- React ⚛️
-- Vuejs 🍃
-- TypeScript 🆕
-- React Native 📱
-
-## Projetos 📂
-
-Aqui estão alguns dos meus projetos mais recentes:
-
-### Projeto 1 
-
-Este é um projeto que desenvolvi usando React. É uma aplicação web que permite aos usuários criar, editar e compartilhar notas. Utilizei Redux para gerenciar o estado da aplicação e Material UI para estilização.
-
-[Link do projeto](https://github.com/seu-usuario/projeto1)
-
-### Projeto 2 
-
-Este projeto foi desenvolvido utilizando Vuejs e TypeScript. É uma aplicação web que permite ao usuário criar e gerenciar tarefas. Utilizei Vuex para gerenciamento de estado e Vuetify para estilização.
-
-[Link do projeto](https://github.com/seu-usuario/projeto2)
-
-### Projeto 3 
-
-Este projeto foi desenvolvido utilizando React Native. É uma aplicação móvel que permite ao usuário encontrar receitas de comida. Utilizei Redux para gerenciamento de estado e Expo para facilitar o desenvolvimento.
-
-[Link do projeto](https://github.com/seu-usuario/projeto3)
-
-## Contato 📧
-
-Caso queira entrar em contato comigo para discutir um projeto ou oportunidade, sinta-se à vontade para enviar um e-mail para joao.vitor@gmail.com. 💬
-
-
-<div>
-<a href="https://instagram.com/vitornaga" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:joaovitorpe.alves@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/jo%C3%A3o-v%C3%ADtor-95825416a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+<h4 align="center">
+  <br>
+  Let's connect and build something awesome together!
+  <br>
+</h4>
